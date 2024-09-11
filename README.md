@@ -79,10 +79,10 @@ Download ProtoTracer from here: [ProtoTracer](https://github.com/coelacant1/Prot
 ## Images
 
 ### 3D View
-![3D View](Board Pictures/3D.png)
+![3D View](BoardPictures/3D.png)
 
 ### 3D View with Components
-![3D View with Components](Board Pictures/3DComponents.png)
+![3D View with Components](BoardPictures/3DComponents.png)
 
 ### Electrical Schematic
-![Electrical Schematic](Board Pictures/Schematic.png)
+![Electrical Schematic](BoardPictures/Schematic.png)
